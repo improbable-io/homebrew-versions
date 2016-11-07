@@ -1,4 +1,4 @@
-class Bazel < Formula
+class Bazel032 < Formula
   desc "Google's own build tool"
   homepage "https://bazel.build/"
   url "https://github.com/bazelbuild/bazel/archive/0.3.2.tar.gz"
