@@ -1,5 +1,6 @@
-# homebrew-bazel
-Versioned homebrew formulae for bazel.
+# homebrew-Versions
+
+# Containting Magical Versioned homebrew formulae for bazel.
 
 Allows using (and switching between) specific versions of bazel.
 
