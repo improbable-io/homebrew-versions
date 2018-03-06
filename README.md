@@ -1,6 +1,5 @@
-# homebrew-Versions
-
-# Containting Magical Versioned homebrew formulae for bazel.
+# homebrew-versions
+Containts Magical Versioned homebrew formulae for bazel (and other tools).
 
 Allows using (and switching between) specific versions of bazel.
 
@@ -8,7 +7,7 @@ Allows using (and switching between) specific versions of bazel.
 
 Tab this repository:
 ```bash
-brew tap improbable/homebrew-bazel
+brew tap improbable-io/homebrew-versions
 ```
 
 
